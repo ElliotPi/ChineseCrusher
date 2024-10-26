@@ -12,11 +12,11 @@ struct HomeView: View {
     
     var body: some View {
         NavigationStack {
-            List(["Numbers", "Family Members", "Colors"], id: \.self) { topic in
-                    Text(topic)
+            List(languageViewModel.topics) { topic in
+                Text(topic.title)
             }
             .listStyle(.plain)
-            .navigationTitle("Chinese Crusher")
+            .navigationTitle("Learn \(languageViewModel.languageName)")
         }
         .padding()
     }
