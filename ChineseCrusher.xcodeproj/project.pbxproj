@@ -91,7 +91,7 @@
 					};
 				};
 			};
-			buildConfigurationList = FC8CD10A2CCBA48900537810 /* Build configuration list for PBXProject "ChineseCrusher" */;
+			buildConfigurationList = FC8CD10A2CCBA48900537810 /* Build configuration list for PBXProject "Pi Elliot Project 1" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -314,7 +314,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		FC8CD10A2CCBA48900537810 /* Build configuration list for PBXProject "ChineseCrusher" */ = {
+		FC8CD10A2CCBA48900537810 /* Build configuration list for PBXProject "Pi Elliot Project 1" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				FC8CD11B2CCBA48B00537810 /* Debug */,
